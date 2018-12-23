@@ -9,3 +9,5 @@
 2. rust-wasm-test/link.bat
 3. webpack-wasm-test/install.bat
 4. webpack-wasm-test/link.bat
+## WARNING!
+- Ensure that your HTTP Server uses the application/wasm MIME type
